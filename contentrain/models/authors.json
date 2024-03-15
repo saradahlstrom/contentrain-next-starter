@@ -125,5 +125,14 @@
     },
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "Date",
+    "fieldId": "date",
+    "modelId": "authors",
+    "componentId": "date",
+    "options": {},
+    "validations": {},
+    "fieldType": "date"
   }
 ]
