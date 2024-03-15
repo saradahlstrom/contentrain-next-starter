@@ -60,15 +60,6 @@
     "modelId": "authors"
   },
   {
-    "name": "fullName",
-    "fieldId": "fullname",
-    "modelId": "authors",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "job",
     "fieldId": "job",
     "modelId": "authors",
