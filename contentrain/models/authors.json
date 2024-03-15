@@ -112,5 +112,18 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "Title",
+    "fieldId": "title",
+    "modelId": "authors",
+    "componentId": "single-line-text",
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    },
+    "validations": {},
+    "fieldType": "string"
   }
 ]
